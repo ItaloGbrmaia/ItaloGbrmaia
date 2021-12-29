@@ -7,5 +7,6 @@
 </div>
 
 ##
-  
+<div>  
 ![Snake animation](https://github.com/ItaloGbrmaia/ItaloGbrmaia/blob/output/github-contribution-grid-snake.svg)  
+</div>
